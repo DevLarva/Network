@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC0309652B038ECE00DACB70 /* FunctionTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0309642B038ECE00DACB70 /* FunctionTest.swift */; };
 		AC9CFE8E2AFE6FD2002AFF4B /* NetworkPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9CFE8D2AFE6FD2002AFF4B /* NetworkPracticeApp.swift */; };
 		AC9CFE902AFE6FD2002AFF4B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9CFE8F2AFE6FD2002AFF4B /* ContentView.swift */; };
 		AC9CFE922AFE6FD4002AFF4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC9CFE912AFE6FD4002AFF4B /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC0309642B038ECE00DACB70 /* FunctionTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionTest.swift; sourceTree = "<group>"; };
 		AC9CFE8A2AFE6FD2002AFF4B /* NetworkPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NetworkPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC9CFE8D2AFE6FD2002AFF4B /* NetworkPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkPracticeApp.swift; sourceTree = "<group>"; };
 		AC9CFE8F2AFE6FD2002AFF4B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				AC9CFE8D2AFE6FD2002AFF4B /* NetworkPracticeApp.swift */,
 				AC9CFE8F2AFE6FD2002AFF4B /* ContentView.swift */,
+				AC0309642B038ECE00DACB70 /* FunctionTest.swift */,
 				ACA841F22AFF659A006D9CB1 /* cellView.swift */,
 				AC9CFE912AFE6FD4002AFF4B /* Assets.xcassets */,
 				AC9CFE932AFE6FD4002AFF4B /* Preview Content */,
@@ -143,6 +146,7 @@
 				AC9CFE902AFE6FD2002AFF4B /* ContentView.swift in Sources */,
 				ACA841F32AFF659A006D9CB1 /* cellView.swift in Sources */,
 				AC9CFE8E2AFE6FD2002AFF4B /* NetworkPracticeApp.swift in Sources */,
+				AC0309652B038ECE00DACB70 /* FunctionTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
